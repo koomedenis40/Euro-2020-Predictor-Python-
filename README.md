@@ -9,8 +9,7 @@ and a defensive vulnerability V_A. Then, the goals scored by team A against team
 distributed with mean O_A * V_B.
 
 While the code is currently set up to predict Euro 2020, changing it to work for another
-football tournament is simple. One simply needs a CSV file containing previous results between the tournament teams and another containing the matches that need to be predicted. These files should mimic
-the format of the two CSV files contained in this repository.
+football tournament is simple. One simply needs a CSV file containing previous results between the tournament teams and another containing the matches that need to be predicted. These files should mimic the format of the two CSV files contained in this repository.
 
 Note that the results.csv file was taken from 
 https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
