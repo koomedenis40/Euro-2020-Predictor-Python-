@@ -13,4 +13,4 @@ football tournament is simple. One simply needs a CSV file containing previous r
 
 Note that the results.csv file was taken from 
 https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
-when working on this project. 
+to help work on this project. 
