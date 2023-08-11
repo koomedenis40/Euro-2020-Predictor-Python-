@@ -1,5 +1,5 @@
 # Euro-2020-Predictor-Python
-This is a Python code for the Euro-2020-Predictor Program
+### This is a Python code for the Euro-2020-Predictor Program
 
 This repository contains the code used to win the Royal Statistical Society's Euro 2020 Prediction Competition.
 The main code can be found in the file "Euro 2020 Predictions - Getting Started.ipynb".
