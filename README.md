@@ -1,4 +1,4 @@
-## Euro-2020-Predictor-Python
+## Euro-2020-Pythin- Predictor-Python
 ### This is a Python code for the Euro-2020-Predictor Program
 
 This repository contains the code used to win the Royal Statistical Society's Euro 2020 Prediction Competition.
