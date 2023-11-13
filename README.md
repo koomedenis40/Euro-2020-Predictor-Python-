@@ -12,7 +12,7 @@ While the code is currently set up to predict Euro 2020, changing it to work for
 football tournament is simple. One needs a CSV file containing previous results between the tournament teams and another containing the matches that need to be predicted. 
 These files should mimic the format of the two CSV files contained in this repository.
 
-## Note
+## Note Carefully
 The results.csv file was taken from 
 https://www.kaggle.com/martj42/international-football-results-from-1872-to-2017
 to help work on this project. 
